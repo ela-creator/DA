@@ -1,3 +1,0 @@
-# GRIPMAY21 TASK 1-Predict the percentage of an student based on the no. of study hours
-# Model Used- Linear Regression Model
-# Tool Used-Python(Jupyter Notebook)
